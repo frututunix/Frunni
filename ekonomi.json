@@ -1,0 +1,151 @@
+{
+    "1438609943304339537": {
+        "cuzdan": 200,
+        "banka": 0,
+        "seviye": 1,
+        "xp": 0
+    },
+    "863222102499917845": {
+        "cuzdan": 200,
+        "banka": 0,
+        "seviye": 1,
+        "xp": 0
+    },
+    "oyuncular": {
+        "1476244719355957358": {
+            "cuzdan": 120,
+            "banka": 0,
+            "seviye": 4,
+            "xp": 257,
+            "envanter": {
+                "yumurta": 0
+            },
+            "son_yemek_tarihi": "2026-07-08 17:09:13",
+            "olum_bitis_tarihi": null
+        },
+        "1511448868238393384": {
+            "cuzdan": 0,
+            "banka": 0,
+            "seviye": 1,
+            "xp": 18,
+            "envanter": {},
+            "son_yemek_tarihi": "2026-07-08 18:17:11",
+            "olum_bitis_tarihi": null
+        },
+        "1390983841266794578": {
+            "cuzdan": 0,
+            "banka": 0,
+            "seviye": 1,
+            "xp": 20,
+            "envanter": {},
+            "son_yemek_tarihi": "2026-07-08 18:41:25",
+            "olum_bitis_tarihi": null
+        },
+        "863222102499917845": {
+            "cuzdan": 0,
+            "banka": 0,
+            "seviye": 2,
+            "xp": 50,
+            "envanter": {},
+            "son_yemek_tarihi": "2026-07-08 18:42:06",
+            "olum_bitis_tarihi": null
+        },
+        "1410291254146895903": {
+            "cuzdan": 0,
+            "banka": 0,
+            "seviye": 1,
+            "xp": 16,
+            "envanter": {},
+            "son_yemek_tarihi": "2026-07-08 18:50:05",
+            "olum_bitis_tarihi": null
+        },
+        "1406630896861315182": {
+            "cuzdan": 0,
+            "banka": 0,
+            "seviye": 1,
+            "xp": 23,
+            "envanter": {},
+            "son_yemek_tarihi": "2026-07-08 19:39:01",
+            "olum_bitis_tarihi": null
+        }
+    },
+    "market": {
+        "tarih": "2026-07-08",
+        "icecekler": [
+            {
+                "id": "gorunmezlik",
+                "isim": "👤 Görünmezlik İksiri",
+                "fiyat": 1500,
+                "sans": 35
+            },
+            {
+                "id": "enerji",
+                "isim": "⚡ Enerji İçeceği",
+                "fiyat": 75,
+                "sans": 70
+            },
+            {
+                "id": "ziplama",
+                "isim": "🦘 Zıplama İksiri",
+                "fiyat": 1250,
+                "sans": 40
+            },
+            {
+                "id": "su",
+                "isim": "💧 Su",
+                "fiyat": 10,
+                "sans": 90
+            },
+            {
+                "id": "süt",
+                "isim": "🥛 Süt",
+                "fiyat": 20,
+                "sans": 80
+            }
+        ],
+        "yemekler": [
+            {
+                "id": "salata",
+                "isim": "🥗 Salata",
+                "fiyat": 45,
+                "sans": 76
+            },
+            {
+                "id": "ekmek",
+                "isim": "🍞 Ekmek",
+                "fiyat": 10,
+                "sans": 99
+            },
+            {
+                "id": "tost",
+                "isim": "🥪 Tost",
+                "fiyat": 50,
+                "sans": 80
+            },
+            {
+                "id": "patso",
+                "isim": "🥖 Patso",
+                "fiyat": 75,
+                "sans": 60
+            },
+            {
+                "id": "yumurta",
+                "isim": "🥚 Yumurta",
+                "fiyat": 10,
+                "sans": 95,
+                "stok": 5,
+                "mevcut_stok": 4
+            }
+        ]
+    },
+    "ayarlar": {
+        "hosgeldin_kanal": 1512823118970880020,
+        "gorusuruz_kanal": 1512823187379847450,
+        "seviye_kanal": 1511430838368337994,
+        "yetkili_uyeler": [],
+        "yetkili_roller": [
+            1512819691515805848
+        ],
+        "seviye_rolleri": {}
+    }
+}
